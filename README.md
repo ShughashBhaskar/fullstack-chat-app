@@ -11,9 +11,7 @@ A full-stack real-time chat application built with the MERN stack, featuring aut
 - 👾 **Real-time Messaging:** Instant chat updates with Socket.io  
 - 🚀 **Online User Status:** See who’s online using React Context & Socket.io  
 - 👌 **Global State Management:** Managed efficiently with Zustand  
-- 🐞 **Error Handling:** Robust handling on both server & client  
-- ⭐ **Deployment:** Free & easy hosting for your project  
-- ⏳ **And much more!**  
+- 🐞 **Error Handling:** Robust handling on both server & client   
 
 ## 📦 Tech Stack
 - **Frontend:** React, Tailwind CSS, DaisyUI, Zustand  
@@ -27,3 +25,7 @@ PORT=...
 MONGO_DB_URI=...
 JWT_SECRET=...
 NODE_ENV=...
+
+
+npm install
+
