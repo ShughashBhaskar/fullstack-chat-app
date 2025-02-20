@@ -29,7 +29,8 @@ JWT_SECRET=...
 NODE_ENV=...
 ```
 ### Build the app
-```npm install
+```
+npm install
 ```
 
 ### Start the app
