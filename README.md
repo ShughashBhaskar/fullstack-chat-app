@@ -21,8 +21,8 @@ A full-stack real-time chat application built with the MERN stack, featuring aut
 - **Real-Time:** Socket.io  
 - **Authentication:** JSON Web Tokens (JWT)  
 
-Setup .env file
-
+## Setup .env file
+sh
 PORT=...
 MONGO_DB_URI=...
 JWT_SECRET=...
