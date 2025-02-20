@@ -3,7 +3,7 @@
 A full-stack real-time chat application built with the MERN stack, featuring authentication, real-time messaging, online status, and deployment.
 
 ## 🚀 Demo
-[Live Demo]([#](https://fullstack-chat-app-bsq9.onrender.com)) 
+[Live Demo](https://fullstack-chat-app-bsq9.onrender.com) 
 
 ## ✨ Features
 - 🌟 **Tech stack:** MERN (MongoDB, Express, React, Node.js) + Socket.io + Tailwind CSS + DaisyUI  
